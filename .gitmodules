@@ -1,0 +1,6 @@
+[submodule "TiamatHead"]
+	path = TiamatHead
+	url = https://github.com/canionlabs/TiamatHead
+[submodule "TiamatMemories"]
+	path = TiamatMemories
+	url = https://github.com/canionlabs/TiamatMemories
